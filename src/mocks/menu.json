@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "name": "Artists",
+    "level": 0,
+    "subItems": [
+      {
+        "id": 2,
+        "name": "Drake",
+        "level": 1,
+        "parentItem": 1,
+        "subItems": [
+          {
+            "id": 5,
+            "name": "For All The Dogs Scary Hours Edition",
+            "level": 2,
+            "parentItem": 2,
+            "subItems": [
+              {
+                "id": 8,
+                "name": "Virginia Beach",
+                "level": 3,
+                "parentItem": 5,
+                "subItems": []
+              },
+              {
+                "id": 9,
+                "name": "Amen",
+                "level": 3,
+                "parentItem": 5,
+                "subItems": []
+              },
+              {
+                "id": 10,
+                "name": "Calling For You",
+                "level": 3,
+                "parentItem": 5,
+                "subItems": []
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Her Loss",
+            "level": 2,
+            "parentItem": 2,
+            "subItems": [
+              {
+                "id": 11,
+                "name": "Rich Flex",
+                "level": 3,
+                "parentItem": 6,
+                "subItems": []
+              },
+              {
+                "id": 12,
+                "name": "Major Distribution",
+                "level": 3,
+                "parentItem": 6,
+                "subItems": []
+              },
+              {
+                "id": 13,
+                "name": "On BS",
+                "level": 3,
+                "parentItem": 6,
+                "subItems": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Honestly, Nevermind",
+            "level": 2,
+            "parentItem": 2,
+            "subItems": [
+              {
+                "id": 14,
+                "name": "Intro",
+                "level": 3,
+                "parentItem": 7,
+                "subItems": []
+              },
+              {
+                "id": 15,
+                "name": "Falling Back",
+                "level": 3,
+                "parentItem": 7,
+                "subItems": []
+              },
+              {
+                "id": 16,
+                "name": "Texts Go Green",
+                "level": 3,
+                "parentItem": 7,
+                "subItems": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Papa Roach",
+        "level": 1,
+        "parentItem": 1,
+        "subItems": [
+          {
+            "id": 17,
+            "name": "Ego Trip",
+            "level": 2,
+            "parentItem": 3,
+            "subItems": [
+              {
+                "id": 20,
+                "name": "Kill The Noise",
+                "level": 3,
+                "parentItem": 17,
+                "subItems": []
+              },
+              {
+                "id": 21,
+                "name": "Stand Up",
+                "level": 3,
+                "parentItem": 17,
+                "subItems": []
+              },
+              {
+                "id": 22,
+                "name": "Swerve",
+                "level": 3,
+                "parentItem": 17,
+                "subItems": []
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Getting Away With Murder",
+            "level": 2,
+            "parentItem": 3,
+            "subItems": [
+              {
+                "id": 23,
+                "name": "Blood",
+                "level": 3,
+                "parentItem": 18,
+                "subItems": []
+              },
+              {
+                "id": 24,
+                "name": "Not Listening",
+                "level": 3,
+                "parentItem": 18,
+                "subItems": []
+              },
+              {
+                "id": 25,
+                "name": "Stop Looking",
+                "level": 3,
+                "parentItem": 18,
+                "subItems": []
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Infest",
+            "level": 2,
+            "parentItem": 3,
+            "subItems": [
+              {
+                "id": 26,
+                "name": "Infest",
+                "level": 3,
+                "parentItem": 19,
+                "subItems": []
+              },
+              {
+                "id": 27,
+                "name": "Last Resort",
+                "level": 3,
+                "parentItem": 19,
+                "subItems": []
+              },
+              {
+                "id": 28,
+                "name": "Broken Home",
+                "level": 3,
+                "parentItem": 19,
+                "subItems": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Linkin Park",
+        "level": 1,
+        "parentItem": 1,
+        "subItems": [
+          {
+            "id": 29,
+            "name": "Hybrid Theory",
+            "level": 2,
+            "parentItem": 4,
+            "subItems": [
+              {
+                "id": 31,
+                "name": "Papercut",
+                "level": 3,
+                "parentItem": 29,
+                "subItems": []
+              },
+              {
+                "id": 32,
+                "name": "One Step Closer",
+                "level": 3,
+                "parentItem": 29,
+                "subItems": []
+              },
+              {
+                "id": 33,
+                "name": "With You",
+                "level": 3,
+                "parentItem": 29,
+                "subItems": []
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "name": "Meteora",
+            "level": 2,
+            "parentItem": 4,
+            "subItems": [
+              {
+                "id": 34,
+                "name": "Foreword",
+                "level": 3,
+                "parentItem": 30,
+                "subItems": []
+              },
+              {
+                "id": 35,
+                "name": "Don't Stay",
+                "level": 3,
+                "parentItem": 30,
+                "subItems": []
+              },
+              {
+                "id": 36,
+                "name": "Somewhere I Belong",
+                "level": 3,
+                "parentItem": 30,
+                "subItems": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

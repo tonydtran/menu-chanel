@@ -1,0 +1,23 @@
+.menu-list-item-container {
+  background-color: #F7F7F7;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+  cursor: pointer;
+  transition: background-color 300ms;
+
+  svg {
+    width: 16px;
+    height: 16px;
+    fill: #B9B9B9;
+    transition: fill 300ms;
+  }
+
+  &:hover {
+    background-color: #D6ECF9;
+
+    svg {
+      fill: #111111;
+    }
+  }
+}
