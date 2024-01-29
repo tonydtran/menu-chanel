@@ -16,7 +16,7 @@ function MenuListItem({ item, handleNext }) {
     <div className="menu-list-item-container" onClick={handleClick}>
       <div>{item.name}</div>
       {hasSubItems && (
-        <div>
+        <div className="menu-list-item-arrow">
           <ArrowNext />
         </div>
       )}
