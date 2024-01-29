@@ -259,6 +259,85 @@
             ]
           }
         ]
+      },
+      {
+        "id": 37,
+        "name": "Michael Jackson",
+        "level": 1,
+        "parentItem": 1,
+        "subItems": [
+          {
+            "id": 38,
+            "name": "Thriller 40",
+            "level": 2,
+            "parentItem": 37,
+            "subItems": [
+              {
+                "id": 39,
+                "name": "Wanna Be Startin' Somethin'",
+                "level": 3,
+                "parentItem": 38,
+                "subItems": []
+              },
+              {
+                "id": 40,
+                "name": "Baby Be Mine",
+                "level": 3,
+                "parentItem": 38,
+                "subItems": []
+              },
+              {
+                "id": 41,
+                "name": "The Girl Is Mine feat. Paul McCartney",
+                "level": 3,
+                "parentItem": 38,
+                "subItems": []
+              },
+              {
+                "id": 42,
+                "name": "Thriller",
+                "level": 3,
+                "parentItem": 38,
+                "subItems": []
+              },
+              {
+                "id": 43,
+                "name": "Beat It",
+                "level": 3,
+                "parentItem": 38,
+                "subItems": []
+              },
+              {
+                "id": 44,
+                "name": "Billie Jean",
+                "level": 3,
+                "parentItem": 38,
+                "subItems": []
+              },
+              {
+                "id": 45,
+                "name": "Human Nature",
+                "level": 3,
+                "parentItem": 38,
+                "subItems": []
+              },
+              {
+                "id": 46,
+                "name": "P.Y.T. (Pretty Young Thing)",
+                "level": 3,
+                "parentItem": 38,
+                "subItems": []
+              },
+              {
+                "id": 47,
+                "name": "The Lady In My Life",
+                "level": 3,
+                "parentItem": 38,
+                "subItems": []
+              }
+            ]
+          }
+        ]
       }
     ]
   }
